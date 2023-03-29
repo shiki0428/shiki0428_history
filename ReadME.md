@@ -107,6 +107,7 @@ Apple Storeアカウント： https://apps.apple.com/au/developer/shikina-toshik
 - ChatGPT
     - 上記
     - GPT API
+- 四字熟語　+ hit & blow + ChatGPT
 - レコメンドクイズ
 - プロテインチェッカー
     - JANコードから成分情報の取得
